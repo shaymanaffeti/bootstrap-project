@@ -1,0 +1,65 @@
+body{
+    background-color:black;
+}
+p , h3{
+    color : whitesmoke;
+}
+
+.sd{
+   
+    margin-top:-19%;
+    margin-left: 43%;
+    
+}
+.SD{
+    width:50%;
+    height:60%;
+    margin-left:auto;
+    margin-right:auto; 
+}
+.sd h3{
+    margin-top: 5%;
+}
+
+.minm{
+    width:35%;
+    height:35%;
+    
+
+}
+
+.min{
+    margin-left: 65%;
+    margin-top: -37%;
+}
+.HG{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.HGP{
+    width:17%;
+    height:40%;
+
+
+}
+h2{ 
+    color: darkred;
+    margin-top: 2%;
+   
+}
+
+main.min h3{
+    text-shadow: 2px 2px 4px  rgb(203, 157, 6);
+}
+main.sd h3{
+    text-shadow: 2px 2px 4px  darkblue;
+}
+main.HG h3{
+    text-shadow: 2px 2px 4px rgba(203, 62, 6, 0.938);
+}
+
+
+
+
+
+
